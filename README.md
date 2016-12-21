@@ -1,0 +1,2 @@
+# PhotoPickerMoudle
+仿微信的选取图片的moudle需要在功能清单上添加Activity的依赖，以及相应的权限
